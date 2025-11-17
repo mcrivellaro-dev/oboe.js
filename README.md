@@ -12,6 +12,9 @@ Many thanks to [JuanCaicedo](https://github.com/JuanCaicedo) and [Aigeec](https:
 
 The [Oboe.js website](http://oboejs.com) has been ported to a static site Github Pages, and the plan is to keep it online with a deprecation notice.
 
+Interested what I've been working on since? Check out [my github](https://github.com/jimhigson) and
+maybe 🕹️[play my retro-game](https://blockstack.ing)
+
 The original README follows below.
 
 ----
